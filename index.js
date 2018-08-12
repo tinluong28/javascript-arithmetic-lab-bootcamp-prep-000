@@ -32,5 +32,5 @@ function makeInt(n) {
 
 function preserveDecimal(n) {
   a = parseFloat(n)
-  return `${a}`
+  return `${'a'}`
 }
